@@ -1,0 +1,52 @@
+# Geotechnik — Heilbronn
+
+> Geotechnical engineering services in Heilbronn, Deutschland.
+
+## Services
+- [Anker](https://heilbronn.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://heilbronn.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://heilbronn.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://heilbronn.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://heilbronn.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://heilbronn.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://heilbronn.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://heilbronn.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://heilbronn.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://heilbronn.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://heilbronn.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://heilbronn.geotechnik.vip/fundamente/)
+- [Geophysik](https://heilbronn.geotechnik.vip/geophysik/)
+- [Grundungen](https://heilbronn.geotechnik.vip/grundungen/)
+- [Hange](https://heilbronn.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://heilbronn.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://heilbronn.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://heilbronn.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://heilbronn.geotechnik.vip/labor/)
+- [Labor In Situ](https://heilbronn.geotechnik.vip/labor-in-situ/)
+- [Masw](https://heilbronn.geotechnik.vip/masw/)
+- [Pfahle](https://heilbronn.geotechnik.vip/pfahle/)
+- [Plattendruckversuch](https://heilbronn.geotechnik.vip/plattendruckversuch/)
+- [Ruttelverdichtung](https://heilbronn.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://heilbronn.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://heilbronn.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://heilbronn.geotechnik.vip/schurfgruben/)
+- [Seismik](https://heilbronn.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://heilbronn.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://heilbronn.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://heilbronn.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://heilbronn.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://heilbronn.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://heilbronn.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://heilbronn.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://heilbronn.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://heilbronn.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://heilbronn.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://heilbronn.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://heilbronn.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://heilbronn.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Heilbronn, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
